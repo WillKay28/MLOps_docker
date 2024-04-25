@@ -1,5 +1,4 @@
-# Simple example of containerizing ML models wrapped in Flask 
-# Deployment of ML models using Python's Scikit-Learn + Flask + Docker by CWallaceh
+# Simple example of containerizing ML models wrapped in Flask Deployment of ML models using Python's Scikit-Learn + Flask + Docker by CWallaceh
 
 1. git clone https://github.com/cwallaceh/sklearn_flask_docker.git
      and cd into sklearn_flask_docker directory
@@ -19,6 +18,7 @@
 
 # But before that make sure that the Docker Daemon is running on your MAC first:
    open -a Docker
+   
 # Link your docker registry aka DockerHub to the Docker desktop using usrname & passwd
    docker ps
 
